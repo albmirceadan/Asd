@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Entitati>
+    <student ID="1022">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="1020">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="10019">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="1018">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="51">
+        <Nume>jhvgcjgk</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="10">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="11">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="12">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="13">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="abc">
+        <Nume>Calin</Nume>
+        <Grupa>932</Grupa>
+    </student>
+    <student ID="14">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="15">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="16">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="17">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="18">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="19">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
     <student ID="1">
         <Nume>Ana</Nume>
         <Grupa>221</Grupa>
@@ -12,8 +76,32 @@
         <Nume>Ion</Nume>
         <Grupa>227</Grupa>
     </student>
-    <student ID="20">
+    <student ID="1024">
         <Nume>Calin</Nume>
-        <Grupa>932</Grupa>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="7">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="8">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="9">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="10021">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="10023">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="10025">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
     </student>
 </Entitati>
