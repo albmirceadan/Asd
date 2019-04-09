@@ -15,7 +15,7 @@ import validation.Validator;
 public class ServiceTest
 {
     @Test
-    public void addStudentTest0()
+    public void addStudentTest()
     {
         int count = 0;
         int countafter = 0;
