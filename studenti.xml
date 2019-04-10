@@ -16,6 +16,34 @@
         <Nume>Calin</Nume>
         <Grupa>500</Grupa>
     </student>
+    <student ID="2006">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="2005">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="1037">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="2004">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="2003">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="1035">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="2002">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
     <student ID="51">
         <Nume>jhvgcjgk</Nume>
         <Grupa>500</Grupa>
@@ -64,9 +92,21 @@
         <Nume>Calin</Nume>
         <Grupa>500</Grupa>
     </student>
+    <student ID="1033">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="1031">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
     <student ID="1">
         <Nume>Ana</Nume>
         <Grupa>221</Grupa>
+    </student>
+    <student ID="1029">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
     </student>
     <student ID="2">
         <Nume>Maria</Nume>
@@ -75,6 +115,10 @@
     <student ID="4">
         <Nume>Ion</Nume>
         <Grupa>227</Grupa>
+    </student>
+    <student ID="1026">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
     </student>
     <student ID="1024">
         <Nume>Calin</Nume>
@@ -101,6 +145,10 @@
         <Grupa>500</Grupa>
     </student>
     <student ID="10025">
+        <Nume>Calin</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="10027">
         <Nume>Calin</Nume>
         <Grupa>500</Grupa>
     </student>
