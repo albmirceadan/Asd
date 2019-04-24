@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Entitati>
+    <tema ID="8023">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
+    <tema ID="8017">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
+    <tema ID="8018">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
+    <tema ID="8020">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
+    <tema ID="8021">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
     <tema ID="110">
         <Descriere>Test descr</Descriere>
         <Deadline>4</Deadline>
@@ -75,7 +100,22 @@
         <Deadline>4</Deadline>
         <Startline>2</Startline>
     </tema>
+    <tema ID="7008">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
     <tema ID="108">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
+    <tema ID="7007">
+        <Descriere>Test descr</Descriere>
+        <Deadline>4</Deadline>
+        <Startline>2</Startline>
+    </tema>
+    <tema ID="8019">
         <Descriere>Test descr</Descriere>
         <Deadline>4</Deadline>
         <Startline>2</Startline>
